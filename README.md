@@ -2,7 +2,8 @@
 
 **Reclassification of Ovarian Cancer Patients Based on Cell-of-Origin Single Cell Gene Expression Signatures**
 
-![OC-CORS graphical abstract](./OC-CORS-graphical-abstract.png)
+![OcCORS](https://github.com/user-attachments/assets/082d953d-0728-416e-9cd9-80cbba76a35f)
+
 
 ---
 
